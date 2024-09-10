@@ -12,6 +12,9 @@ import testimonialTwo from "./images/testmonial/testimonialTwo.png";
 import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.png";
 import sundiBanner from "./images/sundiBannar.png";
+import ceo from "./images/testmonial/mo.jpeg"
+import sua from "./images/testmonial/suaa.jpg"
+import keba from "./images/testmonial/keba.jpeg"
 
 export {
   logo,
@@ -27,4 +30,8 @@ export {
   projectFour,
   projectFive,
   projectSix,
+  ceo,
+  sua,
+  keba
+  
 };

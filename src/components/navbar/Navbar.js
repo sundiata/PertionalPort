@@ -46,9 +46,7 @@ const Navbar = () => {
               <div>
                 <img className="w-32" src={sundiBanner} alt="logo" />
                 <p className="text-sm text-gray-400 mt-2">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Earum soluta perspiciatis molestias enim cum repellat, magnam
-                  exercitationem distinctio aliquid nam.
+                In my work as a mobile app and web developer, I leverage animation as a crucial element to simplify and enrich user experiences. Instead of using motion merely for visual flair, I integrate it thoughtfully to enhance usability and guide users through interactions seamlessly. Each animation is designed to serve a specific purpose, whether it's to provide feedback, indicate transitions, or highlight important elements. This approach not only makes the interface more engaging but also ensures that every interaction is intuitive and fluid, ultimately leading to a more satisfying and effective user experience.
                 </p>
               </div>
               <ul className="flex flex-col gap-4">
