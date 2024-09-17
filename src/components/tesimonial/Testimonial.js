@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import { RiStarFill } from "react-icons/ri";
 import { HiArrowRight, HiArrowLeft } from "react-icons/hi";
 import Title from '../layouts/Title'
-import {  quote, ceo, sua, keba, AbuAisha  } from "../../assets";
+import {  quote,  sua, keba, AbuAisha  } from "../../assets";
 // import { ceo } from '../../assets/images/projects/mo.jpeg';
 
 
