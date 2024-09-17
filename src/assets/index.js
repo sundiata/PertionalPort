@@ -15,6 +15,7 @@ import sundiBanner from "./images/sundiBannar.png";
 import ceo from "./images/testmonial/mo.jpeg"
 import sua from "./images/testmonial/suaa.jpg"
 import keba from "./images/testmonial/keba.jpeg"
+import AbuAisha from "./images/testmonial/AbuAisha.jpeg"
 
 export {
   logo,
@@ -32,6 +33,7 @@ export {
   projectSix,
   ceo,
   sua,
-  keba
+  keba,
+  AbuAisha
   
 };

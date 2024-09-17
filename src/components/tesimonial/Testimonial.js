@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import { RiStarFill } from "react-icons/ri";
 import { HiArrowRight, HiArrowLeft } from "react-icons/hi";
 import Title from '../layouts/Title'
-import {  quote, ceo, sua, keba  } from "../../assets";
+import {  quote, ceo, sua, keba, AbuAisha  } from "../../assets";
 // import { ceo } from '../../assets/images/projects/mo.jpeg';
 
 
@@ -103,8 +103,8 @@ const Testimonial = () => {
             <div className="w-full h-auto flex flex-col lgl:flex-row justify-between">
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
-                  className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
-                  src={ceo}
+                  className="   rounded-lg object-cover"
+                  src={AbuAisha}
                   alt="testimonialOne"
                 />
                 <div className="w-full flex flex-col justify-end">
@@ -150,14 +150,14 @@ const Testimonial = () => {
             <div className="w-full h-auto flex flex-col lgl:flex-row justify-between">
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
-                  className="h-40 md:h-32 lgl:h-80 rounded-lg object-cover"
+                  className=" rounded-lg object-cover"
                   src={keba}
                   alt="testimonialTwo"
                 />
                 <div className="w-full flex flex-col justify-end">
-                  <p className="text-xs uppercase text-designColor tracking-wide mb-2">
+                  {/* <p className="text-xs uppercase text-designColor tracking-wide mb-2">
                     Bound - Trolola
-                  </p>
+                  </p> */}
                   <h3 className="text-2xl font-bold"> Mr Kebba sillah</h3>
                   <p className="text-base tracking-wide text-gray-500">
                     CEO & Founder of Sterlling Contruction  
@@ -198,7 +198,7 @@ const Testimonial = () => {
             <div className="w-full h-auto flex flex-col lgl:flex-row justify-between">
               <div className="w-full lgl:w-[35%] h-full bg-gradient-to-r from-[#1e2024] to-[#23272b] p-8 rounded-lg shadow-shadowOne flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start lgl:justify-center">
                 <img
-                  className="h-72 md:h-32 lgl:h-72 rounded-lg object-cover"
+                  className=" rounded-lg object-cover"
                   src={sua}
                   alt="testimonialOne"
                 />
