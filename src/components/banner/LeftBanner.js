@@ -5,7 +5,7 @@ import { SiTailwindcss, SiFigma, SiNextdotjs } from "react-icons/si";
 
 const LeftBanner = () => {
     const [text] = useTypewriter({
-      words: [" Developer.", "Full Stack Developer.", "Analyst."],
+      words: [ "A Full Stack Developer.", "and  Analyst."],
       loop: true,
       typeSpeed: 20,
       deleteSpeed: 10,
@@ -19,7 +19,7 @@ const LeftBanner = () => {
           Hi, I'm <span className="text-designColor capitalize">Sundiata Keita</span>
         </h1>
         <h2 className="text-4xl font-bold text-white">
-          a <span>{text}</span>
+           <span>{text}</span>
           <Cursor
             cursorBlinking="false"
             cursorStyle="|"

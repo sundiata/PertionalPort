@@ -23,13 +23,13 @@ const Achievement = () => {
         />
         <ResumeCard
           title="Certificate of Honor in Mobile App Development"
-          subTitle="ITAG - (2009)"
+          subTitle="ITAG - (2021)"
           result="Success"
           des="Awarded for exceptional performance in mobile app development training. Demonstrated advanced skills in designing and developing mobile applications, with a focus on user experience and innovative solutions."
         />
         <ResumeCard
           title="University of The Gambia Degree Certificate"
-          subTitle="Gambia - (2008)"
+          subTitle="Gambia - (2023)"
           result="Success"
           des="Received a degree in Information Systems from the University of The Gambia, with a strong focus on IT and computing principles. Achieved a comprehensive understanding of system analysis, design, and development."
         />
@@ -43,7 +43,7 @@ const Achievement = () => {
       <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
         <ResumeCard
           title="Indian Institution Merit Award for Web Development"
-          subTitle="India - (2009)"
+          subTitle="Gambia - (2020)"
           result="Success"
           des="Recognized for outstanding achievement in web development. Demonstrated expertise in building responsive and dynamic websites, and received accolades for contributions to innovative web solutions."
         />
@@ -55,7 +55,7 @@ const Achievement = () => {
         />
         <ResumeCard
           title="Google Analytics Certificate"
-          subTitle="Online - (2010)"
+          subTitle="Online - (2020)"
           result="Success"
           des="Earned certification in Google Analytics, showcasing proficiency in data analysis and digital marketing. Gained skills in tracking and interpreting web traffic, optimizing online performance, and making data-driven decisions."
         />

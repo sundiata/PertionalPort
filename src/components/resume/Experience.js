@@ -30,7 +30,7 @@ const Experience = () => {
       <ResumeCard
         title="Mobile App Developer"
         subTitle="Yummy Eats - (2022 - 2023)"
-        result="Oman"
+        result="Gambia"
         des="Led the development of a food delivery app, integrating GPS tracking and real-time order management. The app significantly improved operational efficiency and user engagement in the competitive food service industry."
       />
     </div>
@@ -56,7 +56,7 @@ const Experience = () => {
       <ResumeCard
         title="Freelance Developer"
         subTitle="Personal Project (2024)"
-        result="Nevada"
+        result="Gambia"
         des="Worked independently on various freelance projects, providing custom software solutions for clients across different industries. Focused on delivering high-quality, scalable, and secure applications."
       />
     </div>
