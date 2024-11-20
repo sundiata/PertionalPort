@@ -29,7 +29,7 @@ const LeftBanner = () => {
         <p className="text-base font-bodyFont leading-6 tracking-wide">
         In my work as a mobile app and web developer, I leverage animation as a crucial element to simplify and enrich user experiences. Instead of using motion merely for visual flair, I integrate it thoughtfully to enhance usability and guide users through interactions seamlessly. Each animation is designed to serve a specific purpose, whether it's to provide feedback, indicate transitions, or highlight important elements. This approach not only makes the interface more engaging but also ensures that every interaction is intuitive and fluid, ultimately leading to a more satisfying and effective user experience
         </p>
-        <p>If you are not redirected, <a href="deeplink://app/login">click here</a>.</p>      </div>
+              </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">
         <div>
           <h2 className="text-base uppercase font-titleFont mb-4">
